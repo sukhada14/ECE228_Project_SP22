@@ -19,7 +19,7 @@ There are 2 .ipynb files in this repo.
 
 ## Data
 ## Code
-In 1.ML_methods.ipynb, 
+### In 1.ML_methods.ipynb, 
 
 A well documented code for reading the data (crop_type_mapping data in Kenya), cleaning the data, exploratory data analysis, training \
 and testing of 5 different ML models is provided.
@@ -42,7 +42,7 @@ Step 5: Test the models on 20% test data
 
 Step 6: Visualization for comparative analysis of accuracies
 
-In 2.DL_Timeseries_methods.ipynb, 
+### In 2.DL_Timeseries_methods.ipynb, 
 
 A well documented code for reading the data (crop_type_mapping data in Kenya), training and testing of 3 different deep learning time series
 based models is provided.

@@ -11,7 +11,7 @@ The structure of the repo is like:
  * Code
    * 1.ML_methods.ipynb
    * 2.DL_Timeseries_methods.ipynb
- * Report PDF
+ * Final_Report.pdf
  * README.md
  * requirements.txt
  

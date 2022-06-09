@@ -1,11 +1,9 @@
 # ECE228_Project_SP22
 $ ./tree-md .
-# Project tree
 
 .
- * [tree-md](./tree-md)
- * [dir2](./dir2)
-   * [file21.ext](./dir2/file21.ext)
+ * [Data]
+   * [crop_type_kenya_2017_metadata.csv]
    * [file22.ext](./dir2/file22.ext)
    * [file23.ext](./dir2/file23.ext)
  * [dir1](./dir1)

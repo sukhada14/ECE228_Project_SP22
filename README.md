@@ -3,9 +3,9 @@ The structure of the repo is like:
 
 Data
 
-    |_ timeseries
-  
-    |_ crop_type_kenya_2017_metadata.csv
+    -timeseries
+    
+    -crop_type_kenya_2017_metadata.csv
 
 There are 2 .ipynb files in this repo.
 1. ML_methods.ipynb

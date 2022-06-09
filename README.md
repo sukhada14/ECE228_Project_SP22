@@ -31,7 +31,7 @@ pixel of Sentinel-2 Satellite image. Each pixel has 14 spectral bands. Hence, ea
 ### 1.ML_methods.ipynb, 
 
 A well documented code for reading the data (crop_type_mapping data in Kenya), cleaning the data, exploratory data analysis, training \
-and testing of 5 different ML models is provided.
+and testing of 5 different ML models is provided. 
 
 Step 1: Reading the numpy files and metadata
 
@@ -67,5 +67,5 @@ Step 4: Visualization for comparative analysis of training loss values for 3 mod
 Step 5: Test the models on 20% test data
 
 ## How to run the code
-Download the git repository. Install requirements given by requirements.txt. Open both notebooks in a jupyter notebook and click on run all cells to reproduce the results.
+Download the git repository. Install requirements given by requirements.txt. Open both notebooks in a jupyter notebook and click on run all cells to reproduce the results. They might not be the exact same as this repo due to the randomness of some algorithms, e.g. gradient descent, random initialization in ML algos etc.
 

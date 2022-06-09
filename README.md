@@ -2,9 +2,10 @@
 $ ./tree-md .
 
 .
- * [Data]
-   * [crop_type_kenya_2017_metadata.csv]
-   * [file22.ext](./dir2/file22.ext)
+ * Data
+   * crop_type_kenya_2017_metadata.csv
+   * timeseries
+       * ok
    * [file23.ext](./dir2/file23.ext)
  * [dir1](./dir1)
    * [file11.ext](./dir1/file11.ext)

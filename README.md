@@ -26,15 +26,15 @@ and testing of 5 different ML models is provided.
 
 Step 1: Reading the numpy files and metadata
 
-Step 2: Cleaning the data- removing rows with null values\
+Step 2: Cleaning the data- removing rows with null values
 
 Step 3: Data visualization (EDA) 
 
-        -for region-wise crop distribution in Kenya
-        
-        -for crop frequency distribution in Kenya
-        
-        -for average spectral signatures for 9 crops
+      -for region-wise crop distribution in Kenya
+
+      -for crop frequency distribution in Kenya
+
+      -for average spectral signatures for 9 crops
         
 Step 4: Train 5 ML models on the 80% training data
 

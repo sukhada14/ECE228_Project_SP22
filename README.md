@@ -1,11 +1,11 @@
 # ECE228_Project_SP22
 The structure of the repo is like:
 
-Data
+-Data
 
-    -timeseries
+  -timeseries
     
-    -crop_type_kenya_2017_metadata.csv
+  -crop_type_kenya_2017_metadata.csv
 
 There are 2 .ipynb files in this repo.
 1. ML_methods.ipynb

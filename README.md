@@ -1,7 +1,9 @@
 # ECE228_Project_SP22
 The structure of the repo is like:
-|_Data
+Data
+
   |_ timeseries
+  
   |_ crop_type_kenya_2017_metadata.csv
 
 There are 2 .ipynb files in this repo.

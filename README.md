@@ -18,8 +18,16 @@ There are 2 .ipynb files in this repo.
 2.DL_Timeseries_methods.ipynb
 
 ## Data
+### crop_type_kenya_2017_metadata.csv
+It is a metadata file. It contains information about file name,	type of crop, region etc.
+
+### timeseries
+This folder has 5738 npy files, each conaining 365 days (1 year) time series data for a field. Each land field is represented by a single
+pixel of Sentinel-2 Satellite image. Each pixel has 14 spectral bands. Hence, each image can be represented by timeseries of size (14 x 365).
+
+
 ## Code
-### In 1.ML_methods.ipynb, 
+### 1.ML_methods.ipynb, 
 
 A well documented code for reading the data (crop_type_mapping data in Kenya), cleaning the data, exploratory data analysis, training \
 and testing of 5 different ML models is provided.
@@ -42,7 +50,7 @@ Step 5: Test the models on 20% test data
 
 Step 6: Visualization for comparative analysis of accuracies
 
-### In 2.DL_Timeseries_methods.ipynb, 
+### 2.DL_Timeseries_methods.ipynb, 
 
 A well documented code for reading the data (crop_type_mapping data in Kenya), training and testing of 3 different deep learning time series
 based models is provided.

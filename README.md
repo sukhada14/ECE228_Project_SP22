@@ -19,6 +19,7 @@ There are 2 .ipynb files in this repo.
 2.DL_Timeseries_methods.ipynb
 
 ## Data
+We are using Sustainbench data in our project.
 ### crop_type_kenya_2017_metadata.csv
 It is a metadata file. It contains information about file name,	type of crop, region etc.
 

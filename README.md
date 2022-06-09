@@ -1,5 +1,6 @@
 # ECE228_Project_SP22
-$ ./tree-md .
+
+The structure of the repo is like:
 
 .
  * Data

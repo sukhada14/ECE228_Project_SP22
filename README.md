@@ -65,4 +65,6 @@ Step 4: Visualization for comparative analysis of training loss values for 3 mod
 
 Step 5: Test the models on 20% test data
 
+## How to run the code
+Download the git repository. Install requirements given by requirements.txt. Open both notebooks in a jupyter notebook and click on run all cells to reproduce the results.
 

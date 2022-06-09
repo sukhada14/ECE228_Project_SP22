@@ -46,3 +46,15 @@ Step 6: Visualization for comparative analysis of accuracies
 
 A well documented code for reading the data (crop_type_mapping data in Kenya), training and testing of 3 different deep learning time series
 based models is provided.
+
+Step 1: Reading the numpy files and metadata
+
+Step 2: Cleaning the data- removing rows with null values
+        
+Step 3: Train 3 models (LST, SimpleRNN, GRU) on the 80% training data
+
+Step 4: Visualization for comparative analysis of training loss values for 3 models
+
+Step 5: Test the models on 20% test data
+
+
